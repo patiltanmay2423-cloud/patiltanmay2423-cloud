@@ -1,7 +1,10 @@
 ## Hi there 👋 I'm Tanmay
 🎓 First-Year Computer Engineering Undergrad at PCCOE, Pune (`B.Tech '30`).
+<br>
 💻 Exploring C, C++, Python, Data Structures & Algorithms, and Web Development, AI , AI Assisted Coding , AI structure.
+<br>
 🚀 Passionate about building clean code, solving problems, and developing software systems.
+<hr>
 <!--
 **patiltanmay2423-cloud/patiltanmay2423-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
